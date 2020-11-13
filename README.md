@@ -20,7 +20,7 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Big-Data-Papers/blob/master/bip(9).pdf" style="text-decoration:none;">The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in MassiveScale, Unbounded, Out of Order Data Processing</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Big-Data-Papers/blob/master/bip(10).pdf" style="text-decoration:none;">MapReduce: Simplied Data Processing on Large Clusters </a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Big-Data-Papers/blob/master/bip(10).pdf" style="text-decoration:none;">MapReduce: Simplified Data Processing on Large Clusters </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Big-Data-Papers/blob/master/bip(11).pdf" style="text-decoration:none;">Naiad: A Timely Dataflow System</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Big-Data-Papers/blob/master/bip(12).pdf" style="text-decoration:none;">Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Big-Data-Papers/blob/master/bip(13).pdf" style="text-decoration:none;">GraphX: Graph Processing in a Distributed Dataflow Framework</a></li>
